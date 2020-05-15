@@ -1,0 +1,181 @@
+Industry,Ticker,Company,Date,PE Ratio
+Entertainment,NFLX,Netflix,6/28/2019,144.05
+Entertainment,NFLX,Netflix,9/30/2019,85.50
+Entertainment,NFLX,Netflix,12/31/2019,78.35
+Entertainment,NFLX,Netflix,1/31/2020,83.56
+Entertainment,NFLX,Netflix,3/13/2020,81.43
+Entertainment,NFLX,Netflix,3/23/2020,87.23
+Entertainment,NFLX,Netflix,3/27/2020,86.47
+Entertainment,NFLX,Netflix,3/31/2020,76.01
+Entertainment,NFLX,Netflix,4/16/2020,88.90
+Entertainment,ATVI,Activison Blizzard,6/28/2019,22.16
+Entertainment,ATVI,Activison Blizzard,9/30/2019,24.79
+Entertainment,ATVI,Activison Blizzard,12/31/2019,30.85
+Entertainment,ATVI,Activison Blizzard,1/31/2020,30.36
+Entertainment,ATVI,Activison Blizzard,3/13/2020,30.65
+Entertainment,ATVI,Activison Blizzard,3/23/2020,29.32
+Entertainment,ATVI,Activison Blizzard,3/27/2020,29.57
+Entertainment,ATVI,Activison Blizzard,3/31/2020,30.36
+Entertainment,ATVI,Activison Blizzard,4/16/2020,34.74
+Entertainment,CNK,Cinemark,6/28/2019,16.29
+Entertainment,CNK,Cinemark,9/30/2019,17.62
+Entertainment,CNK,Cinemark,12/31/2019,16.14
+Entertainment,CNK,Cinemark,1/31/2020,15.02
+Entertainment,CNK,Cinemark,3/13/2020,7.01
+Entertainment,CNK,Cinemark,3/23/2020,5.86
+Entertainment,CNK,Cinemark,3/27/2020,5.86
+Entertainment,CNK,Cinemark,3/31/2020,4.86
+Entertainment,CNK,Cinemark,4/16/2020,5.54
+Entertainment,LYV,Live Nation Entertainment,6/28/2019,253.04
+Entertainment,LYV,Live Nation Entertainment,9/30/2019,294.73
+Entertainment,LYV,Live Nation Entertainment,12/31/2019,1569.30
+Entertainment,LYV,Live Nation Entertainment,1/31/2020,1496.60
+Entertainment,LYV,Live Nation Entertainment,3/13/2020,940.87
+Entertainment,LYV,Live Nation Entertainment,3/23/2020,819.66
+Entertainment,LYV,Live Nation Entertainment,3/27/2020,1035.30
+Entertainment,LYV,Live Nation Entertainment,3/31/2020,-72.38
+Entertainment,LYV,Live Nation Entertainment,4/16/2020,-58.37
+Retail,AMZN,Amazon,6/28/2019,78.57
+Retail,AMZN,Amazon,9/30/2019,76.88
+Retail,AMZN,Amazon,12/31/2019,80.31
+Retail,AMZN,Amazon,1/31/2020,87.30
+Retail,AMZN,Amazon,3/13/2020,77.58
+Retail,AMZN,Amazon,3/23/2020,82.70
+Retail,AMZN,Amazon,3/27/2020,82.58
+Retail,AMZN,Amazon,3/31/2020,93.15
+Retail,AMZN,Amazon,4/16/2020,115.06
+Retail,EBAY,Ebay,6/28/2019,18.19
+Retail,EBAY,Ebay,9/30/2019,18.62
+Retail,EBAY,Ebay,12/31/2019,14.03
+Retail,EBAY,Ebay,1/31/2020,13.04
+Retail,EBAY,Ebay,3/13/2020,13.20
+Retail,EBAY,Ebay,3/23/2020,10.23
+Retail,EBAY,Ebay,3/27/2020,11.72
+Retail,EBAY,Ebay,3/31/2020,11.87
+Retail,EBAY,Ebay,4/16/2020,14.70
+Retail,BIG,Big LOTS,6/28/2019,7.29
+Retail,BIG,Big LOTS,9/30/2019,6.34
+Retail,BIG,Big LOTS,12/31/2019,7.47
+Retail,BIG,Big LOTS,1/31/2020,7.44
+Retail,BIG,Big LOTS,3/13/2020,3.88
+Retail,BIG,Big LOTS,3/23/2020,3.19
+Retail,BIG,Big LOTS,3/27/2020,3.57
+Retail,BIG,Big LOTS,3/31/2020,3.91
+Retail,BIG,Big LOTS,4/16/2020,5.14
+Retail,M,Macy's,6/28/2019,6.77
+Retail,M,Macy's,9/30/2019,5.46
+Retail,M,Macy's,12/31/2019,6.29
+Retail,M,Macy's,1/31/2020,6.31
+Retail,M,Macy's,3/13/2020,3.18
+Retail,M,Macy's,3/23/2020,1.90
+Retail,M,Macy's,3/27/2020,2.19
+Retail,M,Macy's,3/31/2020,1.94
+Retail,M,Macy's,4/16/2020,2.28
+Retail,TJX,TJ Maxx,6/28/2019,28.15
+Retail,TJX,TJ Maxx,9/30/2019,27.39
+Retail,TJX,TJ Maxx,12/31/2019,32.48
+Retail,TJX,TJ Maxx,1/31/2020,28.11
+Retail,TJX,TJ Maxx,3/13/2020,24.55
+Retail,TJX,TJ Maxx,3/23/2020,17.50
+Retail,TJX,TJ Maxx,3/27/2020,22.28
+Retail,TJX,TJ Maxx,3/31/2020,22.76
+Retail,TJX,TJ Maxx,4/16/2020,22.12
+Food,KR,Kroger,6/28/2019,11.54
+Food,KR,Kroger,9/30/2019,11.85
+Food,KR,Kroger,12/31/2019,13.44
+Food,KR,Kroger,1/31/2020,12.34
+Food,KR,Kroger,3/13/2020,14.11
+Food,KR,Kroger,3/23/2020,14.28
+Food,KR,Kroger,3/27/2020,13.38
+Food,KR,Kroger,3/31/2020,13.83
+Food,KR,Kroger,4/16/2020,14.68
+Food,CPB,Campbell Soup,6/28/2019,17.51
+Food,CPB,Campbell Soup,9/30/2019,20.18
+Food,CPB,Campbell Soup,12/31/2019,20.61
+Food,CPB,Campbell Soup,1/31/2020,19.56
+Food,CPB,Campbell Soup,3/13/2020,19.92
+Food,CPB,Campbell Soup,3/23/2020,17.36
+Food,CPB,Campbell Soup,3/27/2020,17.87
+Food,CPB,Campbell Soup,3/31/2020,18.66
+Food,CPB,Campbell Soup,4/16/2020,20.66
+Food,MCD,McDonald's,6/28/2019,26.94
+Food,MCD,McDonald's,9/30/2019,27.58
+Food,MCD,McDonald's,12/31/2019,25.40
+Food,MCD,McDonald's,1/31/2020,27.50
+Food,MCD,McDonald's,3/13/2020,22.77
+Food,MCD,McDonald's,3/23/2020,17.62
+Food,MCD,McDonald's,3/27/2020,21.08
+Food,MCD,McDonald's,3/31/2020,21.72
+Food,MCD,McDonald's,4/16/2020,23.58
+Food,JAX,J Alexanders,6/28/2019,15.12
+Food,JAX,J Alexanders,9/30/2019,13.83
+Food,JAX,J Alexanders,12/31/2019,13.99
+Food,JAX,J Alexanders,1/31/2020,14.02
+Food,JAX,J Alexanders,3/13/2020,5.88
+Food,JAX,J Alexanders,3/23/2020,6.02
+Food,JAX,J Alexanders,3/27/2020,6.21
+Food,JAX,J Alexanders,3/31/2020,5.61
+Food,JAX,J Alexanders,4/16/2020,5.86
+Travel,STAY,Extended Stay,6/28/2019,16.83
+Travel,STAY,Extended Stay,9/30/2019,16.62
+Travel,STAY,Extended Stay,12/31/2019,34.82
+Travel,STAY,Extended Stay,1/31/2020,30.28
+Travel,STAY,Extended Stay,3/13/2020,16.68
+Travel,STAY,Extended Stay,3/23/2020,16.17
+Travel,STAY,Extended Stay,3/27/2020,17.74
+Travel,STAY,Extended Stay,3/31/2020,20.87
+Travel,STAY,Extended Stay,4/16/2020,25.38
+Travel,UAL,United Airlines,6/28/2019,8.10
+Travel,UAL,United Airlines,9/30/2019,7.47
+Travel,UAL,United Airlines,12/31/2019,7.29
+Travel,UAL,United Airlines,1/31/2020,6.19
+Travel,UAL,United Airlines,3/13/2020,3.45
+Travel,UAL,United Airlines,3/23/2020,2.17
+Travel,UAL,United Airlines,3/27/2020,2.72
+Travel,UAL,United Airlines,3/31/2020,5.84
+Travel,UAL,United Airlines,4/16/2020,5.22
+Travel,MAR,Marriott,6/28/2019,30.57
+Travel,MAR,Marriott,9/30/2019,27.92
+Travel,MAR,Marriott,12/31/2019,38.29
+Travel,MAR,Marriott,1/31/2020,35.41
+Travel,MAR,Marriott,3/13/2020,24.17
+Travel,MAR,Marriott,3/23/2020,17.73
+Travel,MAR,Marriott,3/27/2020,19.94
+Travel,MAR,Marriott,3/31/2020,18.92
+Travel,MAR,Marriott,4/16/2020,20.33
+Cleaning,CLW,Clearwater Paper Corp,6/28/2019,9.34
+Cleaning,CLW,Clearwater Paper Corp,9/30/2019,554.20
+Cleaning,CLW,Clearwater Paper Corp,12/31/2019,-372.13
+Cleaning,CLW,Clearwater Paper Corp,1/31/2020,129.48
+Cleaning,CLW,Clearwater Paper Corp,3/13/2020,86.59
+Cleaning,CLW,Clearwater Paper Corp,3/23/2020,112.95
+Cleaning,CLW,Clearwater Paper Corp,3/27/2020,98.26
+Cleaning,CLW,Clearwater Paper Corp,3/31/2020,100.12
+Cleaning,CLW,Clearwater Paper Corp,4/16/2020,87.26
+Cleaning,CLX,Clorox,6/28/2019,24.15
+Cleaning,CLX,Clorox,9/30/2019,24.07
+Cleaning,CLX,Clorox,12/31/2019,24.10
+Cleaning,CLX,Clorox,1/31/2020,24.70
+Cleaning,CLX,Clorox,3/13/2020,26.34
+Cleaning,CLX,Clorox,3/23/2020,26.71
+Cleaning,CLX,Clorox,3/27/2020,27.19
+Cleaning,CLX,Clorox,3/31/2020,25.40
+Cleaning,CLX,Clorox,4/16/2020,28.81
+Tech,TMUS,T-Mobile,6/28/2019,17.19
+Tech,TMUS,T-Mobile,9/30/2019,17.56
+Tech,TMUS,T-Mobile,12/31/2019,17.02
+Tech,TMUS,T-Mobile,1/31/2020,17.19
+Tech,TMUS,T-Mobile,3/13/2020,18.54
+Tech,TMUS,T-Mobile,3/23/2020,16.43
+Tech,TMUS,T-Mobile,3/27/2020,17.74
+Tech,TMUS,T-Mobile,3/31/2020,17.87
+Tech,TMUS,T-Mobile,4/16/2020,19.23
+Tech,MSFT,Microsoft,6/28/2019,28.40
+Tech,MSFT,Microsoft,9/30/2019,27.87
+Tech,MSFT,Microsoft,12/31/2019,29.26
+Tech,MSFT,Microsoft,1/31/2020,31.58
+Tech,MSFT,Microsoft,3/13/2020,29.47
+Tech,MSFT,Microsoft,3/23/2020,25.23
+Tech,MSFT,Microsoft,3/27/2020,27.77
+Tech,MSFT,Microsoft,3/31/2020,27.84
+Tech,MSFT,Microsoft,4/16/2020,31.25
